@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yihan</h1>
 <h3 align="center">A full stack software engineer</h3>
 
-/*- 🔭 I’m currently working on **Tabner** */
+<!-- - 🔭 I’m currently working on **Tabner** -->
 
 - 📫 How to reach me **yw5576@nyu.edu**
 
